@@ -3,8 +3,8 @@ import lightbulb
 import random
 
 bot = lightbulb.BotApp(
-    token='OTQ5MDgzODc5MzI1NzEyNDM1.YiFNPQ.w4WRPumzd_LUGwstllurn2lXhOc',
-    default_enabled_guilds=(628912186202521620, 822251589100109844)
+    token='[BOT TOKEN]',
+    default_enabled_guilds=([guilds go here])
 )
 
 
